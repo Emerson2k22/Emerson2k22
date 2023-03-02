@@ -1,7 +1,7 @@
 ###  Olá, Eu sou Emerson João!!!👋
 • 👨‍🎓Cursando Superior em Análise e Desenvolvimento de Sistemas;
 <br>
-• 🎊🎉Tenho 22 Anos;
+• 🎉Tenho 22 Anos;
 <br>
 • 🔍Estudando HTML5 , CSS3 e JAVASCRIPT, PHP E JAVA;
 <br>
@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/Emerson2k22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emerson2k22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emerson2k22&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson2k22&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
