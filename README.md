@@ -1,5 +1,5 @@
 ###  Olá, Eu sou Emerson João!!!👋
-• 👨‍🎓Cursando Superior em Análise e Desenvolvimento de Sistemas;
+• 👨‍🎓Cursando Superior em Análise e Desenvolvimento de Sistemas (UNINASSAU);
 <br>
 • 🎉Tenho 22 Anos;
 <br>
