@@ -1,11 +1,11 @@
 ###  Olá, Eu sou Emerson João!!!👋
-• Cursando Superior em Análise e Desenvolvimento de Sistemas!🖥️🖱️📚
+• 👨‍🎓Cursando Superior em Análise e Desenvolvimento de Sistemas;
 <br>
-• Me Interesso Pela Área de Front-End!👾
+• 🎊🎉Tenho 22 Anos;
 <br>
-• Tenho 22 Anos!🥳
+• 🔍Estudando HTML5 , CSS3 e JAVASCRIPT, PHP E JAVA;
 <br>
-• Estudando HTML , CSS e JAVASCRIPT!👾
+• 🖥️Me interesso pela área de: Desenvolvimento Web Back-end, Front-end e Desenvolvimento Mobile;
 
 <div align="center">
   <a href="https://github.com/Emerson2k22">
