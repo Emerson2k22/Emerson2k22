@@ -3,7 +3,7 @@
 <br>
 • 🎉Tenho 22 Anos;
 <br>
-• 🔍Estudando HTML5 , CSS3 e JAVASCRIPT, PHP, PYTHON E JAVA;
+• 🔍Estudando HTML5 , CSS3, JAVASCRIPT, PHP, PYTHON E JAVA;
 <br>
 • 🖥️Me interesso pela área de: Desenvolvimento Web Back-end, Front-end e Desenvolvimento Mobile;
 
