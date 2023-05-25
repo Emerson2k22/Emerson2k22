@@ -7,7 +7,7 @@
 <br>
 • 🔍Estudando HTML5 , CSS3, JAVASCRIPT, JAVA E SISTEMAS LINUX;
 <br>
-• 🖥️Me interesso pela área de: Desenvolvimento Web Back-end, Front-end e Desenvolvimento Mobile;
+• 🖥️Me interesso pela área de: Desenvolvimento Web Back-end e Front-end;
 
 <div align="center">
   <a href="https://github.com/Emerson2k22">
