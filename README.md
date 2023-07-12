@@ -1,5 +1,5 @@
 ###  Olá, Eu sou Emerson João!!!👋
-• 💻 Atualmente Trabalho no CPD Atacadão S.A; (Centro de Processamento de Dados);
+• 💻Atualmente Trabalho no CPD Atacadão S.A; (Centro de Processamento de Dados);
 <br>
 • 👨‍🎓Cursando Superior em Análise e Desenvolvimento de Sistemas (UNINASSAU);
 <br>
