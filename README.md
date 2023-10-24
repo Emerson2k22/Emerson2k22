@@ -1,4 +1,4 @@
-###  Olá, Eu sou Emerson João!!!👋
+###  Olá, eu sou Emerson João, bem vindo ao meu perfil!!!👋
 • 💻Atualmente Trabalho no CPD Atacadão S.A; (Centro de Processamento de Dados);
 <br>
 • 👨‍🎓Cursando Superior em Análise e Desenvolvimento de Sistemas (UNINASSAU);
