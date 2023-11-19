@@ -3,7 +3,7 @@
 <br>
 • 👨‍🎓Cursando Superior em Análise e Desenvolvimento de Sistemas (UNINASSAU);
 <br>
-• 🎉Tenho 22 Anos;
+• 🎉Tenho 23 Anos;
 <br>
 • 🔍Estudando HTML5 , CSS3, JAVASCRIPT, JAVA E SISTEMAS LINUX;
 <br>
