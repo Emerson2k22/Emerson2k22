@@ -5,9 +5,8 @@
 <br>
 • 🎉Tenho 23 Anos;
 <br>
-• 🔍Estudando HTML5 , CSS3, JAVASCRIPT, JAVA E SISTEMAS LINUX;
+• 🔍Estudando HTML5 , CSS3, JAVASCRIPT, JAVA, SISTEMAS LINUX E COMPUTAÇÃO EM NUVEM;
 <br>
-• 🖥️Me interesso pela área de: Desenvolvimento Web Back-end e Front-end;
 
 <div align="center">
   <a href="https://github.com/Emerson2k22">
