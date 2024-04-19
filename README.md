@@ -21,6 +21,7 @@
   <img align="center" alt="Emerson-Linux" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Emerson-Canva" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="Emerson-Putty" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
+  <img align="center" alt="Emerson-Git" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 </div>
   
   ##
