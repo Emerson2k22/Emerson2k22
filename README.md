@@ -5,8 +5,6 @@
 <br>
 • 🎉Tenho 23 Anos;
 <br>
-• 🔍Estudando HTML5 , CSS3, JAVASCRIPT, JAVA, SISTEMAS LINUX E COMPUTAÇÃO EM NUVEM;
-<br>
 
 <div align="center">
   <a href="https://github.com/Emerson2k22">
@@ -19,7 +17,6 @@
   <img align="center" alt="Emerson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Emerson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Emerson-Linux" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Emerson-Canva" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="Emerson-Putty" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
   <img align="center" alt="Emerson-Git" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
