@@ -1,9 +1,9 @@
 ###  Olá, eu sou Emerson João, bem vindo ao meu perfil!!!👋
 • 💻Atualmente Trabalho no CPD Atacadão S.A; (Centro de Processamento de Dados);
 <br>
-• 👨‍🎓Cursando Superior em Análise e Desenvolvimento de Sistemas (UNINASSAU);
+• 👨‍🎓Superior em Análise e Desenvolvimento de Sistemas (UNINASSAU);
 <br>
-• 🎉Tenho 23 Anos;
+• 🎉Tenho 24 Anos;
 <br>
 
 <div align="center">
@@ -19,8 +19,6 @@
   <img align="center" alt="Emerson-Linux" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Emerson-Putty" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
   <img align="center" alt="Emerson-Git" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Emerson-Canva" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
-  <img align="center" alt="Emerson-Gimp" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg">
   <img align="center" alt="Emerson-Intellij" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
   <img align="center" alt="Emerson-VsCode" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 </div>
