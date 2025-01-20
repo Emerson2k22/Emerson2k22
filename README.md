@@ -1,11 +1,14 @@
 ###  Olá, eu sou Emerson João, bem vindo ao meu perfil!!!👋
-• 💻Atualmente Trabalho no CPD Atacadão S.A; (Centro de Processamento de Dados);
+• 💻Atuando como Suporte de TI no CPD Atacadão S.A (Centro de Processamento de Dados);
 <br>
 • 👨‍🎓Superior em Análise e Desenvolvimento de Sistemas (UNINASSAU);
 <br>
 • 🎉Tenho 24 Anos;
 <br>
-
+• 📚Me especializando em GoLang e me aprofundando em Devops;
+<br>
+• 📚Inglês nível básico e conhecimentos básicos e avançados nas tecnologias abaixo;
+<br>
 <div align="center">
   <a href="https://github.com/Emerson2k22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emerson2k22&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -21,6 +24,11 @@
   <img align="center" alt="Emerson-Git" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Emerson-Intellij" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
   <img align="center" alt="Emerson-VsCode" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Emerson-GoLang" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg">
+  <img align="center" alt="Emerson-Canva" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
+  <img align="center" alt="Emerson-Python" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="Emerson-Docker" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+  <img align="center" alt="Emerson-Kubernetes" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">
 </div>
   
   ##
