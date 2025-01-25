@@ -3,6 +3,8 @@
 <br>
 • 👨‍🎓Superior em Análise e Desenvolvimento de Sistemas (UNINASSAU);
 <br>
+• 📚Cursando Pós-Graduação em Arquitetura de Cloud Computing (UNINASSAU);
+<br>
 • 🎉Tenho 24 Anos;
 <br>
 • 📚Me especializando em GoLang e me aprofundando em Devops;
