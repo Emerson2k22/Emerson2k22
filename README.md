@@ -7,8 +7,6 @@
 <br>
 • 🎉Tenho 24 Anos;
 <br>
-• 📚Me especializando em GoLang e me aprofundando em Devops;
-<br>
 • 📚Inglês nível básico e conhecimentos básicos e avançados nas tecnologias abaixo;
 <br>
 <div align="center">
