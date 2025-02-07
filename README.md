@@ -3,8 +3,6 @@
 <br>
 • 👨‍🎓Superior em Análise e Desenvolvimento de Sistemas (UNINASSAU);
 <br>
-• 📚Cursando Pós-Graduação em Arquitetura de Cloud Computing (UNINASSAU);
-<br>
 • 🎉Tenho 24 Anos;
 <br>
 • 📚Inglês nível básico e conhecimentos básicos e avançados nas tecnologias abaixo;
