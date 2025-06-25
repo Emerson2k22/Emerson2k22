@@ -1,11 +1,13 @@
 ###  Olá, eu sou Emerson João, bem vindo ao meu perfil!!!👋
 • 💻Atuando como Suporte de TI no CPD Atacadão S.A (Centro de Processamento de Dados);
 <br>
+• 💻Desenvolvedor Banckend;
+<br>
 • 👨‍🎓Superior em Análise e Desenvolvimento de Sistemas (UNINASSAU);
 <br>
 • 🎉Tenho 24 Anos;
 <br>
-• 📚Inglês nível básico e conhecimentos básicos e avançados nas tecnologias abaixo;
+• 📚Inglês e Espanhol nível básico e conhecimentos básicos e avançados nas tecnologias abaixo;
 <br>
 <div align="center">
   <a href="https://github.com/Emerson2k22">
