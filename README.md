@@ -1,7 +1,7 @@
 ###  Olá, eu sou Emerson João, bem vindo ao meu perfil!!!👋
 • 💻Atuando como Suporte de TI no CPD Atacadão S.A (Centro de Processamento de Dados);
 <br>
-• 💻Desenvolvedor Banckend;
+• 💻Desenvolvedor Backend;
 <br>
 • 👨‍🎓Superior em Análise e Desenvolvimento de Sistemas (UNINASSAU);
 <br>
