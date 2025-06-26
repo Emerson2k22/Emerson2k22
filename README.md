@@ -22,9 +22,9 @@
   <img align="center" alt="Emerson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Emerson-Linux" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Emerson-Git" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Emerson-AWS" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg">
-    <img align="center" alt="Emerson-Kubernetes" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg">
-    <img align="center" alt="Emerson-Docker" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg">
+  <img align="center" alt="Emerson-AWS" height="30" width=" 40" src="">
+  <img align="center" alt="Emerson-Kubernetes" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+  <img align="center" alt="Emerson-Docker" height="30" width=" 40" src="">
 </div>
   
   ##
