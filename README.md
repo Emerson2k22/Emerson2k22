@@ -24,6 +24,8 @@
   <img align="center" alt="Emerson-Git" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Emerson-Kubernetes" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">
   <img align="center" alt="Emerson-Docker" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+  <img align="center" alt="Emerson-Trello" height="30" width=" 40" src="https://devicon-website.vercel.app/api/trello/plain.svg">
+   <img align="center" alt="Emerson-Canva" height="30" width=" 40" src="https://devicon-website.vercel.app/api/canva/original.svg ?cor=%2300C4CC">
 </div>
   
   ##
