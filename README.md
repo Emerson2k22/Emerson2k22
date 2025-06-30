@@ -1,8 +1,6 @@
 ###  Olá, eu sou Emerson João, bem vindo ao meu perfil!!!👋
 • 💻Atuando como Suporte de TI no CPD Atacadão S.A (Centro de Processamento de Dados);
 <br>
-• 💻Desenvolvedor Backend;
-<br>
 • 👨‍🎓Superior em Análise e Desenvolvimento de Sistemas (UNINASSAU);
 <br>
 • 🎉Tenho 24 Anos;
@@ -11,7 +9,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/EmersonTECH">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emerson2k22&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmersonTECH&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonTECH&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
