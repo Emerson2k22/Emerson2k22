@@ -25,6 +25,7 @@
   <img align="center" alt="Emerson-Trello" height="30" width=" 40" src="https://devicon-website.vercel.app/api/trello/plain.svg">
   <img align="center" alt="Emerson-Canva" height="30" width=" 40" src="https://devicon-website.vercel.app/api/canva/original.svg">
   <img align="center" alt="Emerson-Putty" height="30" width=" 40" src="https://devicon-website.vercel.app/api/putty/original.svg">
+   <img align="center" alt="Emerson-Grafana" height="30" width=" 40" src="https://devicon-website.vercel.app/api/grafana/original.svg">
 </div>
   
   ##
