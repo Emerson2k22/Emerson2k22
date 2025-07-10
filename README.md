@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/EmersonTECH">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmersonTECH&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonTECH&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonTECH&layout=compact&langs_count=7&theme=calm_pink&cache_seconds=0"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Emerson-GoLang" height="30" width=" 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg">
